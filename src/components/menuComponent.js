@@ -10,14 +10,13 @@ const menu = (props) => {
       float
       fixed>
       <Box
-        fixed
         justify='between'
         full='horizontal'
         direction='row'
         pad={{vertical: 'small', horizontal: 'large'}}
         responsive>
         <Button plain label='Who Am I' onClick={() => {}} />
-        <Button plain label='What I Do' onClick={() => {}} />
+        <Button plain label='What I Code' onClick={() => {}} />
         <Button plain label='Showcase' onClick={() => {}} />
         <Button plain label='Contact Me' onClick={() => {}} />
       </Box>
