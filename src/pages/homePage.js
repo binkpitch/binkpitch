@@ -14,6 +14,7 @@ import PlatformAndroid from 'grommet/components/icons/base/PlatformAndroid'
 import PlatformApple from 'grommet/components/icons/base/PlatformApple'
 import SocialGithub from 'grommet/components/icons/base/SocialGithub'
 import Cloud from 'grommet/components/icons/base/Cloud'
+import Footer from 'grommet/components/Footer'
 
 const styles = {
   landingContainer: {
@@ -164,11 +165,11 @@ const HomePage = () => {
                   A mobile application build to solve the pain of taking photo ID for graduation.
                 </Heading>
                 <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-                  <Anchor icon={<PlatformAndroid />}
+                  <Anchor target='_blank' icon={<PlatformAndroid />}
                     label='Google Play'
                     href='https://play.google.com/store/apps/details?id=me.picnow&hl=en' />
                   <Box margin={{left: 'medium'}}>
-                    <Anchor icon={<PlatformApple />}
+                    <Anchor target='_blank' icon={<PlatformApple />}
                       label='App Store'
                       href='https://itunes.apple.com/us/app/picnow/id1200696255?mt=8' />
                   </Box>
@@ -196,11 +197,11 @@ const HomePage = () => {
                   A React boilerplate with Redux.
                 </Heading>
                 <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-                  <Anchor icon={<Cloud />}
+                  <Anchor target='_blank' icon={<Cloud />}
                     label='GitHub Pages'
                     href='https://binkpitch.github.io/reactor/' />
                   <Box margin={{left: 'medium'}}>
-                    <Anchor icon={<SocialGithub />}
+                    <Anchor target='_blank' icon={<SocialGithub />}
                       label='GitHub'
                       href='https://github.com/binkpitch/reactor' />
                   </Box>
@@ -212,14 +213,36 @@ const HomePage = () => {
       </div>
 
       <div style={styles.contactmeContainer}>
-        <Box margin='large'>
+        <Box margin='large' style={{height: '50vh'}}>
           <Box margin={{vertical: 'large'}} alignSelf='start'>
             <Heading tag='h2'>
               Contact Me
             </Heading>
           </Box>
+          <Box align='center' justify='center' full='vertical'>
+            <Heading tag='h3'>
+              Drop me an email at...
+            </Heading>
+            <Heading tag='h1'>
+              pitchayutn@gmail.com
+            </Heading>
+          </Box>
         </Box>
       </div>
+
+      <Footer justify='end'>
+        <Box direction='row'
+          style={{marginRight: '3vh'}}
+          align='center'
+          pad={{'between': 'medium'}}>
+          <Anchor target='_blank' href='https://github.com/binkpitch/binkpitch'>
+              View source code
+            </Anchor>
+          <Anchor href='#'>
+              Back to top
+            </Anchor>
+        </Box>
+      </Footer>
     </div>
   )
 }
