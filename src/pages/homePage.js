@@ -8,6 +8,12 @@ import Tiles from 'grommet/components/Tiles'
 import Tile from 'grommet/components/Tile'
 import Card from 'grommet/components/Card'
 import Image from 'grommet/components/Image'
+import Hero from 'grommet/components/Hero'
+import Anchor from 'grommet/components/Anchor'
+import PlatformAndroid from 'grommet/components/icons/base/PlatformAndroid'
+import PlatformApple from 'grommet/components/icons/base/PlatformApple'
+import SocialGithub from 'grommet/components/icons/base/SocialGithub'
+import Cloud from 'grommet/components/icons/base/Cloud'
 
 const styles = {
   landingContainer: {
@@ -102,7 +108,7 @@ const HomePage = () => {
               What I Code
             </Heading>
           </Box>
-          <Tiles flush={false}>
+          <Tiles fill>
             <Tile>
               <Card thumbnail={<Image size='small' src={require('../assets/react.png')} />}
                 heading='React'
@@ -123,33 +129,97 @@ const HomePage = () => {
                 heading='Firebase'
                 label='Infrastructure' />
             </Tile>
-            {/* <Tile>
-              <Card thumbnail='/img/carousel-1.png'
-                heading='Sample Heading'
-                label='Sample Label'
-                description='Sample description providing more details.' />
-            </Tile>
-            <Tile>
-              <Card thumbnail='/img/carousel-1.png'
-                heading='Sample Heading'
-                label='Sample Label'
-                description='Sample description providing more details.' />
-            </Tile> */}
           </Tiles>
         </Box>
       </div>
 
-      {/*
       <div style={styles.showcaseContainer}>
-        <p>
-          I am a newly-graduate computer engineering student at Sirindhorn International Institute of Technology, Thammasat University and I am interested in applying for a position related to developing React or React-Native application.
-        </p>
+        <Box margin='large'>
+          <Box margin={{vertical: 'large'}} alignSelf='start'>
+            <Heading tag='h2'>
+              Showcase
+            </Heading>
+          </Box>
+
+          <Hero background={<Image src={require('../assets/picnow.png')}
+            fit='cover'
+            align={{left: true}}
+            full />}
+            size='large'
+            >
+            <Box direction='row'
+              justify='center'
+              align='center'>
+              <Box basis='1/2'
+                align='end'
+                pad='medium' />
+              <Box basis='1/2'
+                align='start'
+                pad='medium'
+                style={{backgroundColor: 'rgba(222, 222, 222, 0.5)'}}>
+                <Heading uppercase margin='none'>
+                  PicNow
+                </Heading>
+                <Heading tag='h2' margin='none'>
+                  A mobile application build to solve the pain of taking photo ID for graduation.
+                </Heading>
+                <Box direction='row' responsive={false} margin={{top: 'medium'}}>
+                  <Anchor icon={<PlatformAndroid />}
+                    label='Google Play'
+                    href='https://play.google.com/store/apps/details?id=me.picnow&hl=en' />
+                  <Box margin={{left: 'medium'}}>
+                    <Anchor icon={<PlatformApple />}
+                      label='App Store'
+                      href='https://itunes.apple.com/us/app/picnow/id1200696255?mt=8' />
+                  </Box>
+                </Box>
+              </Box>
+            </Box>
+          </Hero>
+
+          <Hero style={{backgroundColor: 'rgba(222, 222, 222, 0.5)', marginTop: '10vh'}}>
+            <Box direction='row'
+              justify='center'
+              align='center'>
+              <Box basis='1/2'
+                align='end'
+                pad='medium'>
+                <Image size='small' src={require('../assets/reactor.ico')} />
+              </Box>
+              <Box basis='1/2'
+                align='start'
+                pad='medium'>
+                <Heading margin='none'>
+                  Reactor
+                </Heading>
+                <Heading tag='h2' margin='none'>
+                  A React boilerplate with Redux.
+                </Heading>
+                <Box direction='row' responsive={false} margin={{top: 'medium'}}>
+                  <Anchor icon={<Cloud />}
+                    label='GitHub Pages'
+                    href='https://binkpitch.github.io/reactor/' />
+                  <Box margin={{left: 'medium'}}>
+                    <Anchor icon={<SocialGithub />}
+                      label='GitHub'
+                      href='https://github.com/binkpitch/reactor' />
+                  </Box>
+                </Box>
+              </Box>
+            </Box>
+          </Hero>
+        </Box>
       </div>
+
       <div style={styles.contactmeContainer}>
-        <p>
-          I am a newly-graduate computer engineering student at Sirindhorn International Institute of Technology, Thammasat University and I am interested in applying for a position related to developing React or React-Native application.
-        </p>
-      </div> */}
+        <Box margin='large'>
+          <Box margin={{vertical: 'large'}} alignSelf='start'>
+            <Heading tag='h2'>
+              Contact Me
+            </Heading>
+          </Box>
+        </Box>
+      </div>
     </div>
   )
 }

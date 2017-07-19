@@ -14,7 +14,7 @@ const menu = (props) => {
         full='horizontal'
         direction='row'
         pad={{vertical: 'small', horizontal: 'large'}}
-        responsive>
+        >
         <Button plain label='Who Am I' onClick={() => {}} />
         <Button plain label='What I Code' onClick={() => {}} />
         <Button plain label='Showcase' onClick={() => {}} />
