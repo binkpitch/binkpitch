@@ -11,7 +11,7 @@ const footer = () => {
         style={{marginRight: '3vh'}}
         align='center'
         pad={{'between': 'medium'}}>
-        <Anchor target='_blank' href='https://github.com/binkpitch/binkpitch'>
+        <Anchor rel='noopener noreferrer' target='_blank' href='https://github.com/binkpitch/binkpitch'>
           View source code
         </Anchor>
       </Box>

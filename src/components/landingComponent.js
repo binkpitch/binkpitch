@@ -10,7 +10,7 @@ const landing = () => {
     <div className='landing'>
       <Box align='center' justify='center' full='vertical'>
         <Heading align='center'>
-          Hi, my name is <a target='_blank' href='https://github.com/binkpitch/'><SocialGithub size='medium' /> Bink</a>.
+          Hi, my name is <a rel='noopener noreferrer' target='_blank' href='https://github.com/binkpitch/'><SocialGithub size='medium' /> Bink</a>.
         </Heading>
         <Heading align='center' size='small'>
           I build web and mobile application.

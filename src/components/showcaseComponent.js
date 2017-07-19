@@ -35,11 +35,11 @@ const renderPicNow = () => {
                   A mobile application build to solve the pain of taking photo ID for graduation.
                 </Heading>
           <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-            <Anchor target='_blank' icon={<PlatformAndroid />}
+            <Anchor rel='noopener noreferrer' target='_blank' icon={<PlatformAndroid />}
               label='Google Play'
               href='https://play.google.com/store/apps/details?id=me.picnow&hl=en' />
             <Box margin={{left: 'medium'}}>
-              <Anchor target='_blank' icon={<PlatformApple />}
+              <Anchor rel='noopener noreferrer' target='_blank' icon={<PlatformApple />}
                 label='App Store'
                 href='https://itunes.apple.com/us/app/picnow/id1200696255?mt=8' />
             </Box>
@@ -72,11 +72,11 @@ const renderReactor = () => {
                   A React boilerplate with Redux.
                 </Heading>
           <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-            <Anchor target='_blank' icon={<Cloud />}
+            <Anchor rel='noopener noreferrer' target='_blank' icon={<Cloud />}
               label='GitHub Pages'
               href='https://binkpitch.github.io/reactor/' />
             <Box margin={{left: 'medium'}}>
-              <Anchor target='_blank' icon={<SocialGithub />}
+              <Anchor rel='noopener noreferrer' target='_blank' icon={<SocialGithub />}
                 label='GitHub'
                 href='https://github.com/binkpitch/reactor' />
             </Box>
