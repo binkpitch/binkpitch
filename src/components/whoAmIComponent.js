@@ -7,7 +7,7 @@ const whoAmI = () => {
   return (
     <div className='whoAmI'>
       <Box margin='large' align='center'>
-        <Box alignSelf='start'>
+        <Box margin={{vertical: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
             Who Am I
           </Heading>

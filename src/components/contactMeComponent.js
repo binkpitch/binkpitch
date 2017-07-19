@@ -6,7 +6,7 @@ import Heading from 'grommet/components/Heading'
 const ContactMe = () => {
   return (
     <div className='contactme'>
-      <Box margin='large' style={{height: '50vh'}}>
+      <Box margin='large' style={{height: '80vh'}}>
         <Box margin={{vertical: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
               Contact Me

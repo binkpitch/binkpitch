@@ -1,7 +1,12 @@
 import React from 'react'
+import wrapLink from '../components/wrapLinkHOC'
 import Header from 'grommet/components/Header'
 import Box from 'grommet/components/Box'
-import Button from 'grommet/components/Button'
+import GrommetButton from 'grommet/components/Button'
+
+const Button = props => (
+  <GrommetButton hoverIndicator={{background: 'neutral-4'}} plain label={props.label} onClick={() => {}} />
+)
 
 const menu = (props) => {
   return (
@@ -10,14 +15,21 @@ const menu = (props) => {
       float
       fixed>
       <Box
-        justify='between'
+        justify='start'
         full='horizontal'
         direction='row'
-        pad={{vertical: 'small', horizontal: 'large'}}>
-        <Button plain label='Who Am I' onClick={() => {}} />
-        <Button plain label='What I Code' onClick={() => {}} />
-        <Button plain label='Showcase' onClick={() => {}} />
-        <Button plain label='Contact Me' onClick={() => {}} />
+        pad={{horizontal: 'large'}}>
+        {wrapLink('landing')(<Button label='Back to top' />)}
+      </Box>
+      <Box
+        justify='end'
+        full='horizontal'
+        direction='row'
+        pad={{horizontal: 'large'}}>
+        {wrapLink('whoAmI')(<Button label='Who Am I' />)}
+        {wrapLink('whatICode')(<Button label='What I Code' />)}
+        {wrapLink('showcase')(<Button label='showcase' />)}
+        {wrapLink('contactMe')(<Button label='Contact Me' />)}
       </Box>
     </Header>
   )

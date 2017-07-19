@@ -14,9 +14,6 @@ const footer = () => {
         <Anchor target='_blank' href='https://github.com/binkpitch/binkpitch'>
           View source code
         </Anchor>
-        <Anchor href='#'>
-          Back to top
-        </Anchor>
       </Box>
     </Footer>
   )
