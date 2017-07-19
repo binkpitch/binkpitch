@@ -1,4 +1,5 @@
 import React from 'react'
+import wrapLink from '../components/wrapLinkHOC'
 import Box from 'grommet/components/Box'
 import Button from 'grommet/components/Button'
 import Heading from 'grommet/components/Heading'
@@ -16,13 +17,10 @@ const landing = () => {
         </Heading>
         <Box direction='row' margin={{top: 'medium'}}>
           <Box margin='medium'>
-            <Button label='Learn More'
-              onClick={() => {}}
-              primary />
+            {wrapLink('whoAmI')(<Button label='Learn More' onClick={() => {}} primary />)}
           </Box>
           <Box margin='medium'>
-            <Button label='Contact Me'
-              onClick={() => {}} />
+            {wrapLink('contactMe')(<Button label='Contact Me' onClick={() => {}} />)}
           </Box>
         </Box>
         <Box />
