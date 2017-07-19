@@ -13,8 +13,7 @@ const menu = (props) => {
         justify='between'
         full='horizontal'
         direction='row'
-        pad={{vertical: 'small', horizontal: 'large'}}
-        >
+        pad={{vertical: 'small', horizontal: 'large'}}>
         <Button plain label='Who Am I' onClick={() => {}} />
         <Button plain label='What I Code' onClick={() => {}} />
         <Button plain label='Showcase' onClick={() => {}} />

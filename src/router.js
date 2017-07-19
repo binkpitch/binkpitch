@@ -5,6 +5,7 @@ import { ConnectedRouter } from 'react-router-redux'
 import { routerHistory } from './store.js'
 
 import Menu from './components/menuComponent'
+import Footer from './components/footerComponent'
 
 import HomePage from './pages/homePage'
 import NoMatchPage from './pages/noMatchPage'
@@ -18,6 +19,7 @@ const router = () => {
           <Route exact path='/' component={HomePage} />
           <Route component={NoMatchPage} />
         </Switch>
+        <Route path='/' component={Footer} />
       </div>
     </ConnectedRouter>
   )
