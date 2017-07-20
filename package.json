@@ -35,13 +35,10 @@
     "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/standard",
     "lint-fix": "./node_modules/.bin/standard --fix",
-    "precommit-msg": "echo '\nPre-commit -> Linting with Standard.js \nUse \"--no-verify\" to force commit\n' && exit 0",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "precommit-msg": "echo '\nPre-commit -> Linting with Standard.js \nUse \"--no-verify\" to force commit\n' && exit 0"
   },
   "pre-commit": [
     "precommit-msg",
     "lint"
-  ],
-  "homepage": "https://binkpitch.github.io/reactor"
+  ]
 }
