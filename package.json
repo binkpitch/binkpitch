@@ -36,7 +36,7 @@
     "lint": "./node_modules/.bin/standard",
     "lint-fix": "./node_modules/.bin/standard --fix",
     "precommit-msg": "echo '\nPre-commit -> Linting with Standard.js \nUse \"--no-verify\" to force commit\n' && exit 0",
-    "deploy": "s3-website deploy build -d binkpitch.me"
+    "deploy": "npm run build && s3-website deploy build -d binkpitch.me"
   },
   "pre-commit": [
     "precommit-msg",
