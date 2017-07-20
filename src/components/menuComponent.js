@@ -5,7 +5,9 @@ import Box from 'grommet/components/Box'
 import GrommetButton from 'grommet/components/Button'
 
 const Button = props => (
-  <GrommetButton hoverIndicator={{background: 'neutral-4'}} plain label={props.label} onClick={() => {}} />
+  <Box justify='center'>
+    <GrommetButton box hoverIndicator={{background: 'neutral-4'}} plain label={props.label} onClick={() => {}} />
+  </Box>
 )
 
 const menu = (props) => {
