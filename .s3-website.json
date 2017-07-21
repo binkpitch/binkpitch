@@ -1,0 +1,11 @@
+{
+   "index": "index.html",
+   "region": "ap-southeast-1",
+   "uploadDir": "build",
+   "prefix": "",
+   "corsConfiguration": [],
+   "enableCloudfront": false,
+   "retries": 20,
+   "domain": "binkpitch.me",
+   "configFile": ".s3-website.json"
+}
