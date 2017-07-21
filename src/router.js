@@ -17,7 +17,6 @@ const router = () => {
         <Route path='/' component={Menu} />
         <Switch>
           <Route exact path='/' component={HomePage} />
-          <Route path='/index.html' component={HomePage} />
           <Route component={NoMatchPage} />
         </Switch>
         <Route path='/' component={Footer} />

@@ -11,6 +11,8 @@ const whatICode = () => {
   return (
     <div className='whatICode'>
       <Box margin='large'>
+
+        {/* What I Code  */}
         <Box margin={{vertical: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
             What I Code
@@ -38,6 +40,23 @@ const whatICode = () => {
               label='Infrastructure' />
           </Tile>
         </Tiles>
+
+        {/* Also Intersted In  */}
+        <Box margin={{vertical: 'large'}} alignSelf='start'>
+          <Heading tag='h2'>
+            Also Intersted In
+          </Heading>
+          <Box margin='large'>
+            <Tiles fill>
+              <Tile>
+                <Card thumbnail={<Image size='small' src={require('../assets/mern.png')} />}
+                  heading='MERN'
+                  label='Universal App' />
+              </Tile>
+            </Tiles>
+          </Box>
+        </Box>
+
       </Box>
     </div>
   )

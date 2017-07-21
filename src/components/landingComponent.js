@@ -20,7 +20,7 @@ const landing = () => {
             {wrapLink('whoAmI')(<Button label='Learn More' onClick={() => {}} primary />)}
           </Box>
           <Box margin='medium'>
-            {wrapLink('contactMe')(<Button label='Contact Me' onClick={() => {}} />)}
+            {wrapLink('contactMe')(<Button className='contactMe' label='Contact Me' onClick={() => {}} />)}
           </Box>
         </Box>
         <Box />
