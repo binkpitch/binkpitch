@@ -28,7 +28,7 @@ const menu = (props) => {
         pad={{horizontal: 'large'}}>
         {wrapLink('whoAmI')(<Button label='Who Am I' />)}
         {wrapLink('whatICode')(<Button label='What I Code' />)}
-        {wrapLink('showcase')(<Button label='showcase' />)}
+        {wrapLink('showcase')(<Button label='Showcase' />)}
         {wrapLink('contactMe')(<Button label='Contact Me' />)}
       </Box>
     </Header>
