@@ -10,7 +10,7 @@ import Image from 'grommet/components/Image'
 const whatICode = () => {
   return (
     <div className='whatICode'>
-      <Box margin='large'>
+      <Box margin={{top: 'large', horizontal: 'large'}}>
 
         {/* What I Code  */}
         <Box margin={{vertical: 'large'}} alignSelf='start'>
@@ -42,11 +42,11 @@ const whatICode = () => {
         </Tiles>
 
         {/* Also Intersted In  */}
-        <Box margin={{vertical: 'large'}} alignSelf='start'>
+        <Box margin={{top: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
-            Also Intersted In
+            Also Interested In
           </Heading>
-          <Box margin='large'>
+          <Box margin={{top: 'large'}}>
             <Tiles fill>
               <Tile>
                 <Card thumbnail={<Image size='small' src={require('../assets/mern.png')} />}
