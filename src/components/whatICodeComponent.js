@@ -19,9 +19,11 @@ const whatICode = () => {
         </Box>
         <Tiles fill>
           <Tile>
-            <Card thumbnail={<Image size='small' src={require('../assets/react.png')} />}
+            <Card
+              thumbnail={<Image size='small' src={require('../assets/react.png')} />}
               heading='React'
-              label='JS Library' />
+              label='JS Library'
+              />
           </Tile>
           <Tile>
             <Card thumbnail={<Image size='small' src={require('../assets/react.png')} />}
@@ -40,7 +42,6 @@ const whatICode = () => {
           </Tile>
         </Tiles>
 
-        {/* Also Intersted In  */}
         <Box margin={{top: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
             Also Interested In

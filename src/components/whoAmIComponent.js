@@ -17,22 +17,28 @@ const whoAmI = () => {
         </Heading>
         <Box direction='row' justify='center'>
           <Box margin='medium'>
-            <Value value={22}
+            <Value
+              value={22}
               label='Age'
               units='yr.'
-              size='large' />
+              size='large'
+              />
           </Box>
           <Box margin='medium'>
-            <Value value={3.74}
+            <Value
+              value={3.74}
               label='Grade'
               units='GPA'
-              size='large' />
+              size='large'
+              />
           </Box>
           <Box margin='medium'>
-            <Value value={5}
+            <Value
+              value={5}
               label='Software house intern'
               units='mo.'
-              size='large' />
+              size='large'
+              />
           </Box>
         </Box>
       </Box>
