@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import wrapLink from '../components/wrapLinkHOC'
 import Header from 'grommet/components/Header'
 import Box from 'grommet/components/Box'
@@ -8,7 +9,11 @@ const Button = props => (
   <GrommetButton box hoverIndicator={{background: 'neutral-4'}} plain label={props.label} onClick={() => {}} />
 )
 
-const menu = (props) => {
+Button.PropTypes = {
+  label: PropTypes.string
+}
+
+const menu = () => {
   return (
     <Header
       splash={false}

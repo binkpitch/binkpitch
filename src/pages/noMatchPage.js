@@ -3,7 +3,7 @@ import Box from 'grommet/components/Box'
 import Meter from 'grommet/components/Meter'
 import Value from 'grommet/components/Value'
 
-const noMatchPage = (props) => {
+const noMatchPage = () => {
   return (
     <Box margin='large' style={{height: '80vh'}} align='center' justify='center'>
       <Value value={404}
