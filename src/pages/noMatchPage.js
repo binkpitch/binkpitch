@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import Box from 'grommet/components/Box'
 import Meter from 'grommet/components/Meter'
 import Value from 'grommet/components/Value'
@@ -18,4 +17,4 @@ const noMatchPage = (props) => {
   )
 }
 
-export default InjectSheet()(noMatchPage)
+export default noMatchPage

@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import wrapElement from '../components/wrapElementHOC'
 import Landing from '../components/landingComponent'
 import WhoAmI from '../components/whoAmIComponent'
@@ -19,4 +18,4 @@ const HomePage = () => {
   )
 }
 
-export default InjectSheet()(HomePage)
+export default HomePage

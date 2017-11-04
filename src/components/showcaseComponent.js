@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import Box from 'grommet/components/Box'
 import Heading from 'grommet/components/Heading'
 import Image from 'grommet/components/Image'
@@ -103,4 +102,4 @@ const showcase = () => {
   )
 }
 
-export default InjectSheet()(showcase)
+export default showcase

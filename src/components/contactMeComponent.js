@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import Box from 'grommet/components/Box'
 import Heading from 'grommet/components/Heading'
 
@@ -25,4 +24,4 @@ const ContactMe = () => {
   )
 }
 
-export default InjectSheet()(ContactMe)
+export default ContactMe

@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import Box from 'grommet/components/Box'
 import Anchor from 'grommet/components/Anchor'
 import Footer from 'grommet/components/Footer'
@@ -19,4 +18,4 @@ const footer = () => {
   )
 }
 
-export default InjectSheet()(footer)
+export default footer

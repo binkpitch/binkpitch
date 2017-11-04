@@ -1,5 +1,4 @@
 import React from 'react'
-import InjectSheet from 'react-jss'
 import Box from 'grommet/components/Box'
 import Heading from 'grommet/components/Heading'
 import Tiles from 'grommet/components/Tiles'
@@ -62,4 +61,4 @@ const whatICode = () => {
   )
 }
 
-export default InjectSheet()(whatICode)
+export default whatICode
