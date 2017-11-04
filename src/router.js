@@ -1,8 +1,5 @@
 import React from 'react'
-
-import { Route, Switch } from 'react-router'
-import { ConnectedRouter } from 'react-router-redux'
-import { routerHistory } from './store.js'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 import Menu from './components/menuComponent'
 import Footer from './components/footerComponent'
@@ -12,7 +9,7 @@ import NoMatchPage from './pages/noMatchPage'
 
 const router = () => {
   return (
-    <ConnectedRouter history={routerHistory}>
+    <BrowserRouter>
       <div>
         <Route path='/' component={Menu} />
         <Switch>
@@ -21,7 +18,7 @@ const router = () => {
         </Switch>
         <Route path='/' component={Footer} />
       </div>
-    </ConnectedRouter>
+    </BrowserRouter>
   )
 }
 
