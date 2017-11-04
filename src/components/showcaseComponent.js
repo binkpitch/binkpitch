@@ -16,31 +16,32 @@ const renderPicNow = () => {
       align={{left: true}}
       full />}
       size='large'
-            >
-      <Box direction='row'
-        justify='center'
-        align='center'>
-        <Box basis='1/2'
-          align='end'
-          pad='medium' />
-        <Box basis='1/2'
-          align='start'
-          pad='medium'
-          style={{backgroundColor: 'rgba(222, 222, 222, 0.5)'}}>
+      >
+      <Box direction='row' justify='center' align='center'>
+        <Box basis='1/2' align='end' pad='medium' />
+        <Box basis='1/2' align='start' pad='medium' style={{backgroundColor: 'rgba(222, 222, 222, 0.5)'}}>
           <Heading uppercase margin='none'>
-                  PicNow
-                </Heading>
+            PicNow
+          </Heading>
           <Heading tag='h2' margin='none'>
-                  A mobile application build to solve the pain of taking photo ID for graduation.
-                </Heading>
+            A mobile application build to solve the pain of taking photo ID for graduation.
+          </Heading>
           <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-            <Anchor rel='noopener noreferrer' target='_blank' icon={<PlatformAndroid />}
+            <Anchor
+              rel='noopener noreferrer'
+              target='_blank'
+              icon={<PlatformAndroid />}
               label='Google Play'
-              href='https://play.google.com/store/apps/details?id=me.picnow&hl=en' />
+              href='https://play.google.com/store/apps/details?id=me.picnow&hl=en'
+              />
             <Box margin={{left: 'medium'}}>
-              <Anchor rel='noopener noreferrer' target='_blank' icon={<PlatformApple />}
+              <Anchor
+                rel='noopener noreferrer'
+                target='_blank'
+                icon={<PlatformApple />}
                 label='App Store'
-                href='https://itunes.apple.com/us/app/picnow/id1200696255?mt=8' />
+                href='https://itunes.apple.com/us/app/picnow/id1200696255?mt=8'
+                />
             </Box>
           </Box>
         </Box>
@@ -53,29 +54,30 @@ const renderPicNow = () => {
 const renderReactor = () => {
   return (
     <Hero style={{backgroundColor: 'rgba(222, 222, 222, 0.5)', marginTop: '10vh'}}>
-      <Box direction='row'
-        justify='center'
-        align='center'>
-        <Box basis='1/2'
-          align='end'
-          pad='medium'>
+      <Box direction='row' justify='center' align='center'>
+        <Box basis='1/2' align='end' pad='medium'>
           <Image size='small' src={require('../assets/reactor.ico')} />
         </Box>
-        <Box basis='1/2'
-          align='start'
-          pad='medium'>
+        <Box basis='1/2' align='start' pad='medium'>
           <Heading margin='none'>
-                  Reactor
-                </Heading>
+            Reactor
+          </Heading>
           <Heading tag='h2' margin='none'>
-                  A React boilerplate with Redux.
-                </Heading>
+            A React boilerplate with Redux.
+          </Heading>
           <Box direction='row' responsive={false} margin={{top: 'medium'}}>
-            <Anchor rel='noopener noreferrer' target='_blank' icon={<Cloud />}
+            <Anchor
+              rel='noopener noreferrer'
+              target='_blank'
+              icon={<Cloud />}
               label='GitHub Pages'
-              href='https://binkpitch.github.io/reactor/' />
+              href='https://binkpitch.github.io/reactor/'
+              />
             <Box margin={{left: 'medium'}}>
-              <Anchor rel='noopener noreferrer' target='_blank' icon={<SocialGithub />}
+              <Anchor
+                rel='noopener noreferrer'
+                target='_blank'
+                icon={<SocialGithub />}
                 label='GitHub'
                 href='https://github.com/binkpitch/reactor' />
             </Box>

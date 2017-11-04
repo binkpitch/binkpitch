@@ -1,0 +1,2084 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Component ContactMe 1`] = `
+<div
+  className="contactme"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={
+      Object {
+        "height": "80vh",
+      }
+    }
+    tabIndex={undefined}
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        Contact Me
+      </h2>
+    </div>
+    <div
+      className="grommetux-box grommetux-box--full-vertical grommetux-box--full-responsive grommetux-box--direction-column grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h3
+        className="grommetux-heading"
+      >
+        Drop me an email at...
+      </h3>
+      <h1
+        className="grommetux-heading"
+      >
+        pitchayutn@gmail.com
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component Footer 1`] = `
+<footer
+  className="grommetux-box grommetux-box--direction-row grommetux-box--justify-end grommetux-box--align-center grommetux-box--pad-none grommetux-footer"
+  id={undefined}
+  onClick={undefined}
+  role={undefined}
+  style={Object {}}
+  tabIndex={undefined}
+>
+  <div
+    className="grommetux-box grommetux-box--direction-row grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-between-medium"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={
+      Object {
+        "marginRight": "3vh",
+      }
+    }
+    tabIndex={undefined}
+  >
+    <a
+      aria-label={undefined}
+      className="grommetux-anchor"
+      href="https://github.com/binkpitch/binkpitch"
+      onClick={[Function]}
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      View source code
+    </a>
+  </div>
+</footer>
+`;
+
+exports[`Storyshots Component Landing 1`] = `
+<div
+  className="landing"
+>
+  <div
+    className="grommetux-box grommetux-box--full-vertical grommetux-box--full-responsive grommetux-box--direction-column grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <h1
+      className="grommetux-heading grommetux-heading--align-center"
+    >
+      Hi, my name is 
+      <a
+        href="https://github.com/binkpitch/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <svg
+          aria-label="social-github"
+          className="grommetux-control-icon grommetux-control-icon-social-github grommetux-control-icon--medium grommetux-control-icon--responsive"
+          height="24px"
+          role="img"
+          version="1.1"
+          viewBox="0 0 24 24"
+          width="24px"
+        >
+          <path
+            d="M11.9989871,1 C5.92550416,1 1,5.92482888 1,12.0003376 C1,16.8603395 4.15153934,20.9829338 8.52263728,22.4374904 C9.0729918,22.5387827 9.27355045,22.199116 9.27355045,21.9073943 C9.27355045,21.6467356 9.2640965,20.954572 9.25869425,20.0368642 C6.19899322,20.7013414 5.55342398,18.5620492 5.55342398,18.5620492 C5.0530403,17.2911692 4.33183953,16.9528531 4.33183953,16.9528531 C3.33309801,16.2708186 4.40747107,16.2843243 4.40747107,16.2843243 C5.51155652,16.3619816 6.09229872,17.4181221 6.09229872,17.4181221 C7.07348292,19.0988981 8.66714755,18.6133706 9.2938089,18.3317781 C9.39375058,17.6213819 9.67804414,17.1365297 9.99205009,16.86169 C7.54955646,16.5841493 4.98146045,15.6401056 4.98146045,11.4249977 C4.98146045,10.224347 5.41026428,9.24181221 6.11390773,8.47334172 C6.00046042,8.19512569 5.62297799,7.07618404 6.22195279,5.56220265 C6.22195279,5.56220265 7.14506277,5.26642929 9.24653918,6.68992296 C10.12373,6.44547101 11.0650726,6.32392032 12.0003376,6.31919335 C12.9349274,6.32392032 13.8755947,6.44547101 14.7541361,6.68992296 C16.8542619,5.26642929 17.7760214,5.56220265 17.7760214,5.56220265 C18.3763467,7.07618404 17.9988643,8.19512569 17.8860923,8.47334172 C18.5910863,9.24181221 19.0165137,10.224347 19.0165137,11.4249977 C19.0165137,15.6509101 16.444366,16.5807729 13.9944443,16.8529114 C14.3888087,17.192578 14.7406305,17.863808 14.7406305,18.890236 C14.7406305,20.3603241 14.7271248,21.5467939 14.7271248,21.9073943 C14.7271248,22.2018171 14.9256576,22.5441849 15.4834403,22.4368151 C19.8511618,20.9788821 23,16.8589889 23,12.0003376 C23,5.92482888 18.0744958,1 11.9989871,1"
+            fill="#333"
+            fillRule="evenodd"
+            stroke="none"
+          />
+        </svg>
+        Bink
+      </a>
+      .
+    </h1>
+    <h1
+      className="grommetux-heading grommetux-heading--small grommetux-heading--align-center"
+    >
+      I build web and mobile application.
+    </h1>
+    <div
+      className="grommetux-box grommetux-box--direction-row grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-medium"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <a
+          className={undefined}
+          onClick={[Function]}
+        >
+          <button
+            aria-label={undefined}
+            className="grommetux-button grommetux-button--primary"
+            disabled={false}
+            href={undefined}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+            type="button"
+          >
+            <span
+              className="grommetux-button__label"
+            >
+              Learn More
+            </span>
+          </button>
+        </a>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <a
+          className={undefined}
+          onClick={[Function]}
+        >
+          <button
+            aria-label={undefined}
+            className="grommetux-button contactMe"
+            disabled={false}
+            href={undefined}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+            type="button"
+          >
+            <span
+              className="grommetux-button__label"
+            >
+              Contact Me
+            </span>
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component Menu 1`] = `
+<div
+  className="grommetux-header__container grommetux-header__container--fixed grommetux-header__container--fill grommetux-header__container--float"
+>
+  <div
+    className="grommetux-header__mirror"
+  />
+  <div
+    className="grommetux-header__wrapper"
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <header
+        className="grommetux-box grommetux-box--direction-row grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-header--float"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--full-horizontal grommetux-box--full-responsive grommetux-box--direction-row grommetux-box--justify-start grommetux-box--responsive grommetux-box--pad-horizontal-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                Back to top
+              </span>
+            </button>
+          </a>
+        </div>
+        <div
+          className="grommetux-box grommetux-box--full-horizontal grommetux-box--full-responsive grommetux-box--direction-row grommetux-box--justify-end grommetux-box--responsive grommetux-box--pad-horizontal-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                Who Am I
+              </span>
+            </button>
+          </a>
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                What I Code
+              </span>
+            </button>
+          </a>
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                Showcase
+              </span>
+            </button>
+          </a>
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                Contact Me
+              </span>
+            </button>
+          </a>
+        </div>
+      </header>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component Showcase 1`] = `
+<div
+  className="showcase"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        Showcase
+      </h2>
+    </div>
+    <div
+      className="grommetux-hero grommetux-hero--large"
+    >
+      <div
+        className="grommetux-hero__background"
+      >
+        <img
+          className="grommetux-image grommetux-image--medium grommetux-image--cover grommetux-image--full grommetux-image--align-left"
+          src="picnow.png"
+        />
+      </div>
+      <div
+        className="grommetux-hero__foreground"
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-end grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          />
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-start grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(222, 222, 222, 0.5)",
+              }
+            }
+            tabIndex={undefined}
+          >
+            <h1
+              className="grommetux-heading grommetux-heading--margin-none grommetux-heading--uppercase"
+            >
+              PicNow
+            </h1>
+            <h2
+              className="grommetux-heading grommetux-heading--margin-none"
+            >
+              A mobile application build to solve the pain of taking photo ID for graduation.
+            </h2>
+            <div
+              className="grommetux-box grommetux-box--direction-row grommetux-box--pad-none grommetux-box--margin-top-medium"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <a
+                aria-label={undefined}
+                className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                href="https://play.google.com/store/apps/details?id=me.picnow&hl=en"
+                onClick={[Function]}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-label="platform-android"
+                  className="grommetux-control-icon grommetux-control-icon-platform-android grommetux-control-icon--responsive"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M5.68524564,7.91390616 L18.4032637,7.91390616 L18.4032637,18.2777185 C18.4032637,18.8934049 17.9041016,19.392567 17.2891666,19.392567 L16.0152889,19.392567 L16.0152889,22.54887 C16.0152889,23.3504036 15.3759782,24 14.5867968,24 C13.7955958,24 13.1572245,23.3504036 13.1572245,22.54887 L13.1572245,19.392567 L10.9323651,19.392567 L10.9323651,22.54887 C10.9323651,23.3504036 10.2917863,24 9.50265183,24 C8.71365828,24 8.07312646,23.3504036 8.07312646,22.54887 L8.07312646,19.392567 L6.80037593,19.392567 C6.18530006,19.392567 5.68519867,18.8934049 5.68519867,18.2777185 L5.68519867,7.91390616 L5.68524564,7.91390616 Z M3.19295784,7.82931914 C2.39574512,7.82931914 1.75,8.48511514 1.75,9.2946801 L1.75,15.0216583 C1.75,15.8302839 2.39574512,16.4872071 3.19295784,16.4872071 C3.99031146,16.4872071 4.63591568,15.8302839 4.63591568,15.0216583 L4.63591568,9.2946801 C4.63591568,8.48511514 3.99031146,7.82931914 3.19295784,7.82931914 L3.19295784,7.82931914 Z M18.4033106,6.86955468 L5.68524564,6.86955468 C5.84220834,5.05767343 7.01754994,3.49847301 8.70952521,2.59567916 L7.50032062,0.820150132 C7.33725225,0.580713909 7.39877862,0.254013563 7.63868451,0.0909921564 C7.8783086,-0.07202925 8.20435141,-0.0100332096 8.36821822,0.229215147 L9.68615071,2.16574601 C10.4168586,1.91306518 11.2100322,1.76798505 12.0442547,1.76798505 C12.8794634,1.76798505 13.672684,1.91306518 14.4033449,2.16607478 L15.7212774,0.229919647 C15.8831246,-0.00998624287 16.2102007,-0.0719822833 16.4498248,0.0910391231 C16.6897307,0.25406053 16.7512571,0.580760876 16.5881887,0.820197099 L15.3799704,2.59572613 C17.0718987,3.49795638 18.2464419,5.0571568 18.4033106,6.86955468 L18.4033106,6.86955468 Z M10.0653129,4.40760737 C10.0653129,4.01905189 9.75068296,3.70390535 9.36226837,3.70390535 C8.97286748,3.70390535 8.65823758,4.01905189 8.65823758,4.40760737 C8.65823758,4.79597499 8.97390075,5.11098063 9.36226837,5.11098063 C9.75063599,5.11098063 10.0653129,4.79597499 10.0653129,4.40760737 L10.0653129,4.40760737 Z M15.5194145,4.40760737 C15.5194145,4.01905189 15.2037044,3.70390535 14.8153837,3.70390535 C14.4259828,3.70390535 14.1122923,4.01905189 14.1122923,4.40760737 C14.1122923,4.79597499 14.4259828,5.11098063 14.8153837,5.11098063 C15.2037514,5.11098063 15.5194145,4.79597499 15.5194145,4.40760737 L15.5194145,4.40760737 Z M20.8965378,7.82729957 C20.1001704,7.82729957 19.4525936,8.48408187 19.4525936,9.2936938 L19.4525936,15.0226915 C19.4525936,15.8323035 20.1001704,16.4892736 20.8965378,16.4892736 C21.6939384,16.4892736 22.3384623,15.8323504 22.3384623,15.0226915 L22.3384623,9.2936938 C22.3385093,8.48408187 21.6939384,7.82729957 20.8965378,7.82729957 L20.8965378,7.82729957 Z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+                Google Play
+              </a>
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-left-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <a
+                  aria-label={undefined}
+                  className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                  href="https://itunes.apple.com/us/app/picnow/id1200696255?mt=8"
+                  onClick={[Function]}
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <svg
+                    aria-label="platform-apple"
+                    className="grommetux-control-icon grommetux-control-icon-platform-apple grommetux-control-icon--responsive"
+                    height="24px"
+                    role="img"
+                    version="1.1"
+                    viewBox="0 0 24 24"
+                    width="24px"
+                  >
+                    <path
+                      d="M15.3007013,3.832 C16.1387013,2.818 16.7027013,1.405 16.5487013,0 C15.3407013,0.049 13.8797013,0.805 13.0137013,1.819 C12.2367013,2.717 11.5567013,4.154 11.7407013,5.531 C13.0867013,5.636 14.4627013,4.847 15.3007013,3.832 M18.3207013,12.75 C18.3547013,16.382 21.5067013,17.591 21.5417013,17.607 C21.5157013,17.692 21.0387013,19.329 19.8807013,21.02 C18.8807013,22.482 17.8427013,23.939 16.2067013,23.969 C14.5997013,23.998 14.0837013,23.016 12.2457013,23.016 C10.4097013,23.016 9.83570131,23.939 8.31370131,23.998 C6.73570131,24.058 5.53370131,22.417 4.52470131,20.961 C2.46370131,17.981 0.888701307,12.541 3.00370131,8.869 C4.05470131,7.045 5.93170131,5.89 7.96970131,5.861 C9.51970131,5.831 10.9827013,6.904 11.9307013,6.904 C12.8777013,6.904 14.6557013,5.614 16.5247013,5.803 C17.3077013,5.836 19.5037013,6.119 20.9147013,8.184 C20.8007013,8.254 18.2937013,9.714 18.3207013,12.75"
+                      fillRule="evenodd"
+                    />
+                  </svg>
+                  App Store
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="grommetux-hero grommetux-hero--medium"
+      style={
+        Object {
+          "backgroundColor": "rgba(222, 222, 222, 0.5)",
+          "marginTop": "10vh",
+        }
+      }
+    >
+      <div
+        className="grommetux-hero__foreground"
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-end grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <img
+              className="grommetux-image grommetux-image--small"
+              src="reactor.ico"
+            />
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-start grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <h1
+              className="grommetux-heading grommetux-heading--margin-none"
+            >
+              Reactor
+            </h1>
+            <h2
+              className="grommetux-heading grommetux-heading--margin-none"
+            >
+              A React boilerplate with Redux.
+            </h2>
+            <div
+              className="grommetux-box grommetux-box--direction-row grommetux-box--pad-none grommetux-box--margin-top-medium"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <a
+                aria-label={undefined}
+                className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                href="https://binkpitch.github.io/reactor/"
+                onClick={[Function]}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  aria-label="cloud"
+                  className="grommetux-control-icon grommetux-control-icon-cloud grommetux-control-icon--responsive"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M18,17 L18,18 C18,21 16,22 13,22 L11,22 C8,22 6,21 6,18 L6,17 C3.23857625,17 1,14.7614237 1,12 C1,9.23857625 3.23857625,7 6,7 L12,7 M6,7 L6,6 C6,3 8,2 11,2 L13,2 C16,2 18,3 18,6 L18,7 C20.7614237,7 23,9.23857625 23,12 C23,14.7614237 20.7614237,17 18,17 L12,17"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                GitHub Pages
+              </a>
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-left-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <a
+                  aria-label={undefined}
+                  className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                  href="https://github.com/binkpitch/reactor"
+                  onClick={[Function]}
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <svg
+                    aria-label="social-github"
+                    className="grommetux-control-icon grommetux-control-icon-social-github grommetux-control-icon--responsive"
+                    height="24px"
+                    role="img"
+                    version="1.1"
+                    viewBox="0 0 24 24"
+                    width="24px"
+                  >
+                    <path
+                      d="M11.9989871,1 C5.92550416,1 1,5.92482888 1,12.0003376 C1,16.8603395 4.15153934,20.9829338 8.52263728,22.4374904 C9.0729918,22.5387827 9.27355045,22.199116 9.27355045,21.9073943 C9.27355045,21.6467356 9.2640965,20.954572 9.25869425,20.0368642 C6.19899322,20.7013414 5.55342398,18.5620492 5.55342398,18.5620492 C5.0530403,17.2911692 4.33183953,16.9528531 4.33183953,16.9528531 C3.33309801,16.2708186 4.40747107,16.2843243 4.40747107,16.2843243 C5.51155652,16.3619816 6.09229872,17.4181221 6.09229872,17.4181221 C7.07348292,19.0988981 8.66714755,18.6133706 9.2938089,18.3317781 C9.39375058,17.6213819 9.67804414,17.1365297 9.99205009,16.86169 C7.54955646,16.5841493 4.98146045,15.6401056 4.98146045,11.4249977 C4.98146045,10.224347 5.41026428,9.24181221 6.11390773,8.47334172 C6.00046042,8.19512569 5.62297799,7.07618404 6.22195279,5.56220265 C6.22195279,5.56220265 7.14506277,5.26642929 9.24653918,6.68992296 C10.12373,6.44547101 11.0650726,6.32392032 12.0003376,6.31919335 C12.9349274,6.32392032 13.8755947,6.44547101 14.7541361,6.68992296 C16.8542619,5.26642929 17.7760214,5.56220265 17.7760214,5.56220265 C18.3763467,7.07618404 17.9988643,8.19512569 17.8860923,8.47334172 C18.5910863,9.24181221 19.0165137,10.224347 19.0165137,11.4249977 C19.0165137,15.6509101 16.444366,16.5807729 13.9944443,16.8529114 C14.3888087,17.192578 14.7406305,17.863808 14.7406305,18.890236 C14.7406305,20.3603241 14.7271248,21.5467939 14.7271248,21.9073943 C14.7271248,22.2018171 14.9256576,22.5441849 15.4834403,22.4368151 C19.8511618,20.9788821 23,16.8589889 23,12.0003376 C23,5.92482888 18.0744958,1 11.9989871,1"
+                      fill="#333"
+                      fillRule="evenodd"
+                      stroke="none"
+                    />
+                  </svg>
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component WhatICode 1`] = `
+<div
+  className="whatICode"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        What I Code
+      </h2>
+    </div>
+    <div
+      className="grommetux-box grommetux-box--direction-row grommetux-box--justify-start grommetux-box--responsive grommetux-box--pad-small grommetux-box--wrap grommetux-tiles grommetux-tiles--fill grommetux-tiles--flush"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <img
+            className="grommetux-image grommetux-image--small"
+            src="react.png"
+          />
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <label
+              className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+              htmlFor={undefined}
+            >
+              JS Library
+            </label>
+            <h2
+              className="grommetux-heading grommetux-heading--strong"
+            >
+              React
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <img
+            className="grommetux-image grommetux-image--small"
+            src="react.png"
+          />
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <label
+              className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+              htmlFor={undefined}
+            >
+              App Framework
+            </label>
+            <h2
+              className="grommetux-heading grommetux-heading--strong"
+            >
+              React Native
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <img
+            className="grommetux-image grommetux-image--small"
+            src="redux.png"
+          />
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <label
+              className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+              htmlFor={undefined}
+            >
+              State Container
+            </label>
+            <h2
+              className="grommetux-heading grommetux-heading--strong"
+            >
+              Redux
+            </h2>
+          </div>
+        </div>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <img
+            className="grommetux-image grommetux-image--small"
+            src="firebase.png"
+          />
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <label
+              className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+              htmlFor={undefined}
+            >
+              Infrastructure
+            </label>
+            <h2
+              className="grommetux-heading grommetux-heading--strong"
+            >
+              Firebase
+            </h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        Also Interested In
+      </h2>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--justify-start grommetux-box--responsive grommetux-box--pad-small grommetux-box--wrap grommetux-tiles grommetux-tiles--fill grommetux-tiles--flush"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <img
+                className="grommetux-image grommetux-image--small"
+                src="mern.png"
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <label
+                  className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                  htmlFor={undefined}
+                >
+                  Universal App
+                </label>
+                <h2
+                  className="grommetux-heading grommetux-heading--strong"
+                >
+                  MERN
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Component WhoAmI 1`] = `
+<div
+  className="whoAmI"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        Who Am I
+      </h2>
+    </div>
+    <h3
+      className="grommetux-heading grommetux-heading--align-center grommetux-heading--margin-medium"
+    >
+      A newly-graduate 
+      <b>
+        computer engineering
+      </b>
+       student 
+      <br />
+       with a goal of becoming 
+      <b>
+        a fullstack developer
+      </b>
+      .
+    </h3>
+    <div
+      className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--responsive grommetux-box--pad-none"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-value grommetux-value--large grommetux-value--align-center"
+        >
+          <div
+            className="grommetux-value__annotated"
+          >
+            <div>
+              <span
+                className="grommetux-value__value"
+              >
+                22
+              </span>
+              <span
+                className="grommetux-value__units"
+              >
+                yr.
+              </span>
+            </div>
+          </div>
+          <span
+            className="grommetux-value__label"
+          >
+            Age
+          </span>
+        </div>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-value grommetux-value--large grommetux-value--align-center"
+        >
+          <div
+            className="grommetux-value__annotated"
+          >
+            <div>
+              <span
+                className="grommetux-value__value"
+              >
+                3.74
+              </span>
+              <span
+                className="grommetux-value__units"
+              >
+                GPA
+              </span>
+            </div>
+          </div>
+          <span
+            className="grommetux-value__label"
+          >
+            Grade
+          </span>
+        </div>
+      </div>
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-value grommetux-value--large grommetux-value--align-center"
+        >
+          <div
+            className="grommetux-value__annotated"
+          >
+            <div>
+              <span
+                className="grommetux-value__value"
+              >
+                5
+              </span>
+              <span
+                className="grommetux-value__units"
+              >
+                mo.
+              </span>
+            </div>
+          </div>
+          <span
+            className="grommetux-value__label"
+          >
+            Software house intern
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Page Home 1`] = `
+<div>
+  <div
+    name="landing"
+  >
+    <div
+      className="landing"
+    >
+      <div
+        className="grommetux-box grommetux-box--full-vertical grommetux-box--full-responsive grommetux-box--direction-column grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <h1
+          className="grommetux-heading grommetux-heading--align-center"
+        >
+          Hi, my name is 
+          <a
+            href="https://github.com/binkpitch/"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <svg
+              aria-label="social-github"
+              className="grommetux-control-icon grommetux-control-icon-social-github grommetux-control-icon--medium grommetux-control-icon--responsive"
+              height="24px"
+              role="img"
+              version="1.1"
+              viewBox="0 0 24 24"
+              width="24px"
+            >
+              <path
+                d="M11.9989871,1 C5.92550416,1 1,5.92482888 1,12.0003376 C1,16.8603395 4.15153934,20.9829338 8.52263728,22.4374904 C9.0729918,22.5387827 9.27355045,22.199116 9.27355045,21.9073943 C9.27355045,21.6467356 9.2640965,20.954572 9.25869425,20.0368642 C6.19899322,20.7013414 5.55342398,18.5620492 5.55342398,18.5620492 C5.0530403,17.2911692 4.33183953,16.9528531 4.33183953,16.9528531 C3.33309801,16.2708186 4.40747107,16.2843243 4.40747107,16.2843243 C5.51155652,16.3619816 6.09229872,17.4181221 6.09229872,17.4181221 C7.07348292,19.0988981 8.66714755,18.6133706 9.2938089,18.3317781 C9.39375058,17.6213819 9.67804414,17.1365297 9.99205009,16.86169 C7.54955646,16.5841493 4.98146045,15.6401056 4.98146045,11.4249977 C4.98146045,10.224347 5.41026428,9.24181221 6.11390773,8.47334172 C6.00046042,8.19512569 5.62297799,7.07618404 6.22195279,5.56220265 C6.22195279,5.56220265 7.14506277,5.26642929 9.24653918,6.68992296 C10.12373,6.44547101 11.0650726,6.32392032 12.0003376,6.31919335 C12.9349274,6.32392032 13.8755947,6.44547101 14.7541361,6.68992296 C16.8542619,5.26642929 17.7760214,5.56220265 17.7760214,5.56220265 C18.3763467,7.07618404 17.9988643,8.19512569 17.8860923,8.47334172 C18.5910863,9.24181221 19.0165137,10.224347 19.0165137,11.4249977 C19.0165137,15.6509101 16.444366,16.5807729 13.9944443,16.8529114 C14.3888087,17.192578 14.7406305,17.863808 14.7406305,18.890236 C14.7406305,20.3603241 14.7271248,21.5467939 14.7271248,21.9073943 C14.7271248,22.2018171 14.9256576,22.5441849 15.4834403,22.4368151 C19.8511618,20.9788821 23,16.8589889 23,12.0003376 C23,5.92482888 18.0744958,1 11.9989871,1"
+                fill="#333"
+                fillRule="evenodd"
+                stroke="none"
+              />
+            </svg>
+            Bink
+          </a>
+          .
+        </h1>
+        <h1
+          className="grommetux-heading grommetux-heading--small grommetux-heading--align-center"
+        >
+          I build web and mobile application.
+        </h1>
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-medium"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <a
+              className={undefined}
+              onClick={[Function]}
+            >
+              <button
+                aria-label={undefined}
+                className="grommetux-button grommetux-button--primary"
+                disabled={false}
+                href={undefined}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onMouseUp={[Function]}
+                type="button"
+              >
+                <span
+                  className="grommetux-button__label"
+                >
+                  Learn More
+                </span>
+              </button>
+            </a>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <a
+              className={undefined}
+              onClick={[Function]}
+            >
+              <button
+                aria-label={undefined}
+                className="grommetux-button contactMe"
+                disabled={false}
+                href={undefined}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onMouseUp={[Function]}
+                type="button"
+              >
+                <span
+                  className="grommetux-button__label"
+                >
+                  Contact Me
+                </span>
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    name="whoAmI"
+  >
+    <div
+      className="whoAmI"
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            Who Am I
+          </h2>
+        </div>
+        <h3
+          className="grommetux-heading grommetux-heading--align-center grommetux-heading--margin-medium"
+        >
+          A newly-graduate 
+          <b>
+            computer engineering
+          </b>
+           student 
+          <br />
+           with a goal of becoming 
+          <b>
+            a fullstack developer
+          </b>
+          .
+        </h3>
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--responsive grommetux-box--pad-none"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-value grommetux-value--large grommetux-value--align-center"
+            >
+              <div
+                className="grommetux-value__annotated"
+              >
+                <div>
+                  <span
+                    className="grommetux-value__value"
+                  >
+                    22
+                  </span>
+                  <span
+                    className="grommetux-value__units"
+                  >
+                    yr.
+                  </span>
+                </div>
+              </div>
+              <span
+                className="grommetux-value__label"
+              >
+                Age
+              </span>
+            </div>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-value grommetux-value--large grommetux-value--align-center"
+            >
+              <div
+                className="grommetux-value__annotated"
+              >
+                <div>
+                  <span
+                    className="grommetux-value__value"
+                  >
+                    3.74
+                  </span>
+                  <span
+                    className="grommetux-value__units"
+                  >
+                    GPA
+                  </span>
+                </div>
+              </div>
+              <span
+                className="grommetux-value__label"
+              >
+                Grade
+              </span>
+            </div>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-medium"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-value grommetux-value--large grommetux-value--align-center"
+            >
+              <div
+                className="grommetux-value__annotated"
+              >
+                <div>
+                  <span
+                    className="grommetux-value__value"
+                  >
+                    5
+                  </span>
+                  <span
+                    className="grommetux-value__units"
+                  >
+                    mo.
+                  </span>
+                </div>
+              </div>
+              <span
+                className="grommetux-value__label"
+              >
+                Software house intern
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    name="whatICode"
+  >
+    <div
+      className="whatICode"
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            What I Code
+          </h2>
+        </div>
+        <div
+          className="grommetux-box grommetux-box--direction-row grommetux-box--justify-start grommetux-box--responsive grommetux-box--pad-small grommetux-box--wrap grommetux-tiles grommetux-tiles--fill grommetux-tiles--flush"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <img
+                className="grommetux-image grommetux-image--small"
+                src="react.png"
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <label
+                  className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                  htmlFor={undefined}
+                >
+                  JS Library
+                </label>
+                <h2
+                  className="grommetux-heading grommetux-heading--strong"
+                >
+                  React
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <img
+                className="grommetux-image grommetux-image--small"
+                src="react.png"
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <label
+                  className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                  htmlFor={undefined}
+                >
+                  App Framework
+                </label>
+                <h2
+                  className="grommetux-heading grommetux-heading--strong"
+                >
+                  React Native
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <img
+                className="grommetux-image grommetux-image--small"
+                src="redux.png"
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <label
+                  className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                  htmlFor={undefined}
+                >
+                  State Container
+                </label>
+                <h2
+                  className="grommetux-heading grommetux-heading--strong"
+                >
+                  Redux
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <img
+                className="grommetux-image grommetux-image--small"
+                src="firebase.png"
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <label
+                  className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                  htmlFor={undefined}
+                >
+                  Infrastructure
+                </label>
+                <h2
+                  className="grommetux-heading grommetux-heading--strong"
+                >
+                  Firebase
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            Also Interested In
+          </h2>
+          <div
+            className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large"
+            id={undefined}
+            onClick={undefined}
+            role={undefined}
+            style={Object {}}
+            tabIndex={undefined}
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-row grommetux-box--justify-start grommetux-box--responsive grommetux-box--pad-small grommetux-box--wrap grommetux-tiles grommetux-tiles--fill grommetux-tiles--flush"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-tile grommetux-none-hover-color-index-disabled grommetux-tile--hover-border-small"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <div
+                  className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--wrap grommetux-box--width-medium grommetux-box--size grommetux-card"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <img
+                    className="grommetux-image grommetux-image--small"
+                    src="mern.png"
+                  />
+                  <div
+                    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-medium grommetux-card__content"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    <label
+                      className="grommetux-label grommetux-label--uppercase grommetux-label--margin-none grommetux-label--medium"
+                      htmlFor={undefined}
+                    >
+                      Universal App
+                    </label>
+                    <h2
+                      className="grommetux-heading grommetux-heading--strong"
+                    >
+                      MERN
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    name="showcase"
+  >
+    <div
+      className="showcase"
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            Showcase
+          </h2>
+        </div>
+        <div
+          className="grommetux-hero grommetux-hero--large"
+        >
+          <div
+            className="grommetux-hero__background"
+          >
+            <img
+              className="grommetux-image grommetux-image--medium grommetux-image--cover grommetux-image--full grommetux-image--align-left"
+              src="picnow.png"
+            />
+          </div>
+          <div
+            className="grommetux-hero__foreground"
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--align-end grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              />
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--align-start grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={
+                  Object {
+                    "backgroundColor": "rgba(222, 222, 222, 0.5)",
+                  }
+                }
+                tabIndex={undefined}
+              >
+                <h1
+                  className="grommetux-heading grommetux-heading--margin-none grommetux-heading--uppercase"
+                >
+                  PicNow
+                </h1>
+                <h2
+                  className="grommetux-heading grommetux-heading--margin-none"
+                >
+                  A mobile application build to solve the pain of taking photo ID for graduation.
+                </h2>
+                <div
+                  className="grommetux-box grommetux-box--direction-row grommetux-box--pad-none grommetux-box--margin-top-medium"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <a
+                    aria-label={undefined}
+                    className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                    href="https://play.google.com/store/apps/details?id=me.picnow&hl=en"
+                    onClick={[Function]}
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    <svg
+                      aria-label="platform-android"
+                      className="grommetux-control-icon grommetux-control-icon-platform-android grommetux-control-icon--responsive"
+                      height="24px"
+                      role="img"
+                      version="1.1"
+                      viewBox="0 0 24 24"
+                      width="24px"
+                    >
+                      <path
+                        d="M5.68524564,7.91390616 L18.4032637,7.91390616 L18.4032637,18.2777185 C18.4032637,18.8934049 17.9041016,19.392567 17.2891666,19.392567 L16.0152889,19.392567 L16.0152889,22.54887 C16.0152889,23.3504036 15.3759782,24 14.5867968,24 C13.7955958,24 13.1572245,23.3504036 13.1572245,22.54887 L13.1572245,19.392567 L10.9323651,19.392567 L10.9323651,22.54887 C10.9323651,23.3504036 10.2917863,24 9.50265183,24 C8.71365828,24 8.07312646,23.3504036 8.07312646,22.54887 L8.07312646,19.392567 L6.80037593,19.392567 C6.18530006,19.392567 5.68519867,18.8934049 5.68519867,18.2777185 L5.68519867,7.91390616 L5.68524564,7.91390616 Z M3.19295784,7.82931914 C2.39574512,7.82931914 1.75,8.48511514 1.75,9.2946801 L1.75,15.0216583 C1.75,15.8302839 2.39574512,16.4872071 3.19295784,16.4872071 C3.99031146,16.4872071 4.63591568,15.8302839 4.63591568,15.0216583 L4.63591568,9.2946801 C4.63591568,8.48511514 3.99031146,7.82931914 3.19295784,7.82931914 L3.19295784,7.82931914 Z M18.4033106,6.86955468 L5.68524564,6.86955468 C5.84220834,5.05767343 7.01754994,3.49847301 8.70952521,2.59567916 L7.50032062,0.820150132 C7.33725225,0.580713909 7.39877862,0.254013563 7.63868451,0.0909921564 C7.8783086,-0.07202925 8.20435141,-0.0100332096 8.36821822,0.229215147 L9.68615071,2.16574601 C10.4168586,1.91306518 11.2100322,1.76798505 12.0442547,1.76798505 C12.8794634,1.76798505 13.672684,1.91306518 14.4033449,2.16607478 L15.7212774,0.229919647 C15.8831246,-0.00998624287 16.2102007,-0.0719822833 16.4498248,0.0910391231 C16.6897307,0.25406053 16.7512571,0.580760876 16.5881887,0.820197099 L15.3799704,2.59572613 C17.0718987,3.49795638 18.2464419,5.0571568 18.4033106,6.86955468 L18.4033106,6.86955468 Z M10.0653129,4.40760737 C10.0653129,4.01905189 9.75068296,3.70390535 9.36226837,3.70390535 C8.97286748,3.70390535 8.65823758,4.01905189 8.65823758,4.40760737 C8.65823758,4.79597499 8.97390075,5.11098063 9.36226837,5.11098063 C9.75063599,5.11098063 10.0653129,4.79597499 10.0653129,4.40760737 L10.0653129,4.40760737 Z M15.5194145,4.40760737 C15.5194145,4.01905189 15.2037044,3.70390535 14.8153837,3.70390535 C14.4259828,3.70390535 14.1122923,4.01905189 14.1122923,4.40760737 C14.1122923,4.79597499 14.4259828,5.11098063 14.8153837,5.11098063 C15.2037514,5.11098063 15.5194145,4.79597499 15.5194145,4.40760737 L15.5194145,4.40760737 Z M20.8965378,7.82729957 C20.1001704,7.82729957 19.4525936,8.48408187 19.4525936,9.2936938 L19.4525936,15.0226915 C19.4525936,15.8323035 20.1001704,16.4892736 20.8965378,16.4892736 C21.6939384,16.4892736 22.3384623,15.8323504 22.3384623,15.0226915 L22.3384623,9.2936938 C22.3385093,8.48408187 21.6939384,7.82729957 20.8965378,7.82729957 L20.8965378,7.82729957 Z"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                    Google Play
+                  </a>
+                  <div
+                    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-left-medium"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    <a
+                      aria-label={undefined}
+                      className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                      href="https://itunes.apple.com/us/app/picnow/id1200696255?mt=8"
+                      onClick={[Function]}
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      <svg
+                        aria-label="platform-apple"
+                        className="grommetux-control-icon grommetux-control-icon-platform-apple grommetux-control-icon--responsive"
+                        height="24px"
+                        role="img"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                      >
+                        <path
+                          d="M15.3007013,3.832 C16.1387013,2.818 16.7027013,1.405 16.5487013,0 C15.3407013,0.049 13.8797013,0.805 13.0137013,1.819 C12.2367013,2.717 11.5567013,4.154 11.7407013,5.531 C13.0867013,5.636 14.4627013,4.847 15.3007013,3.832 M18.3207013,12.75 C18.3547013,16.382 21.5067013,17.591 21.5417013,17.607 C21.5157013,17.692 21.0387013,19.329 19.8807013,21.02 C18.8807013,22.482 17.8427013,23.939 16.2067013,23.969 C14.5997013,23.998 14.0837013,23.016 12.2457013,23.016 C10.4097013,23.016 9.83570131,23.939 8.31370131,23.998 C6.73570131,24.058 5.53370131,22.417 4.52470131,20.961 C2.46370131,17.981 0.888701307,12.541 3.00370131,8.869 C4.05470131,7.045 5.93170131,5.89 7.96970131,5.861 C9.51970131,5.831 10.9827013,6.904 11.9307013,6.904 C12.8777013,6.904 14.6557013,5.614 16.5247013,5.803 C17.3077013,5.836 19.5037013,6.119 20.9147013,8.184 C20.8007013,8.254 18.2937013,9.714 18.3207013,12.75"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                      App Store
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="grommetux-hero grommetux-hero--medium"
+          style={
+            Object {
+              "backgroundColor": "rgba(222, 222, 222, 0.5)",
+              "marginTop": "10vh",
+            }
+          }
+        >
+          <div
+            className="grommetux-hero__foreground"
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--align-end grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <img
+                  className="grommetux-image grommetux-image--small"
+                  src="reactor.ico"
+                />
+              </div>
+              <div
+                className="grommetux-box grommetux-box--direction-column grommetux-box--align-start grommetux-box--responsive grommetux-box--basis-1-2 grommetux-box--pad-medium"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                <h1
+                  className="grommetux-heading grommetux-heading--margin-none"
+                >
+                  Reactor
+                </h1>
+                <h2
+                  className="grommetux-heading grommetux-heading--margin-none"
+                >
+                  A React boilerplate with Redux.
+                </h2>
+                <div
+                  className="grommetux-box grommetux-box--direction-row grommetux-box--pad-none grommetux-box--margin-top-medium"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <a
+                    aria-label={undefined}
+                    className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                    href="https://binkpitch.github.io/reactor/"
+                    onClick={[Function]}
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    <svg
+                      aria-label="cloud"
+                      className="grommetux-control-icon grommetux-control-icon-cloud grommetux-control-icon--responsive"
+                      height="24px"
+                      role="img"
+                      version="1.1"
+                      viewBox="0 0 24 24"
+                      width="24px"
+                    >
+                      <path
+                        d="M18,17 L18,18 C18,21 16,22 13,22 L11,22 C8,22 6,21 6,18 L6,17 C3.23857625,17 1,14.7614237 1,12 C1,9.23857625 3.23857625,7 6,7 L12,7 M6,7 L6,6 C6,3 8,2 11,2 L13,2 C16,2 18,3 18,6 L18,7 C20.7614237,7 23,9.23857625 23,12 C23,14.7614237 20.7614237,17 18,17 L12,17"
+                        fill="none"
+                        stroke="#000"
+                        strokeWidth="2"
+                      />
+                    </svg>
+                    GitHub Pages
+                  </a>
+                  <div
+                    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-left-medium"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    <a
+                      aria-label={undefined}
+                      className="grommetux-anchor grommetux-anchor--animate-icon grommetux-anchor--icon grommetux-anchor--icon-label"
+                      href="https://github.com/binkpitch/reactor"
+                      onClick={[Function]}
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      <svg
+                        aria-label="social-github"
+                        className="grommetux-control-icon grommetux-control-icon-social-github grommetux-control-icon--responsive"
+                        height="24px"
+                        role="img"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                      >
+                        <path
+                          d="M11.9989871,1 C5.92550416,1 1,5.92482888 1,12.0003376 C1,16.8603395 4.15153934,20.9829338 8.52263728,22.4374904 C9.0729918,22.5387827 9.27355045,22.199116 9.27355045,21.9073943 C9.27355045,21.6467356 9.2640965,20.954572 9.25869425,20.0368642 C6.19899322,20.7013414 5.55342398,18.5620492 5.55342398,18.5620492 C5.0530403,17.2911692 4.33183953,16.9528531 4.33183953,16.9528531 C3.33309801,16.2708186 4.40747107,16.2843243 4.40747107,16.2843243 C5.51155652,16.3619816 6.09229872,17.4181221 6.09229872,17.4181221 C7.07348292,19.0988981 8.66714755,18.6133706 9.2938089,18.3317781 C9.39375058,17.6213819 9.67804414,17.1365297 9.99205009,16.86169 C7.54955646,16.5841493 4.98146045,15.6401056 4.98146045,11.4249977 C4.98146045,10.224347 5.41026428,9.24181221 6.11390773,8.47334172 C6.00046042,8.19512569 5.62297799,7.07618404 6.22195279,5.56220265 C6.22195279,5.56220265 7.14506277,5.26642929 9.24653918,6.68992296 C10.12373,6.44547101 11.0650726,6.32392032 12.0003376,6.31919335 C12.9349274,6.32392032 13.8755947,6.44547101 14.7541361,6.68992296 C16.8542619,5.26642929 17.7760214,5.56220265 17.7760214,5.56220265 C18.3763467,7.07618404 17.9988643,8.19512569 17.8860923,8.47334172 C18.5910863,9.24181221 19.0165137,10.224347 19.0165137,11.4249977 C19.0165137,15.6509101 16.444366,16.5807729 13.9944443,16.8529114 C14.3888087,17.192578 14.7406305,17.863808 14.7406305,18.890236 C14.7406305,20.3603241 14.7271248,21.5467939 14.7271248,21.9073943 C14.7271248,22.2018171 14.9256576,22.5441849 15.4834403,22.4368151 C19.8511618,20.9788821 23,16.8589889 23,12.0003376 C23,5.92482888 18.0744958,1 11.9989871,1"
+                          fill="#333"
+                          fillRule="evenodd"
+                          stroke="none"
+                        />
+                      </svg>
+                      GitHub
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    name="contactMe"
+  >
+    <div
+      className="contactme"
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={
+          Object {
+            "height": "80vh",
+          }
+        }
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            Contact Me
+          </h2>
+        </div>
+        <div
+          className="grommetux-box grommetux-box--full-vertical grommetux-box--full-responsive grommetux-box--direction-column grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h3
+            className="grommetux-heading"
+          >
+            Drop me an email at...
+          </h3>
+          <h1
+            className="grommetux-heading"
+          >
+            pitchayutn@gmail.com
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Page NoMatch 1`] = `
+<div
+  className="grommetux-box grommetux-box--direction-column grommetux-box--justify-center grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-large"
+  id={undefined}
+  onClick={undefined}
+  role={undefined}
+  style={
+    Object {
+      "height": "80vh",
+    }
+  }
+  tabIndex={undefined}
+>
+  <div
+    className="grommetux-value grommetux-value--large grommetux-value--align-center"
+  >
+    <div
+      className="grommetux-value__annotated"
+    >
+      <div>
+        <span
+          className="grommetux-value__value"
+        >
+          404
+        </span>
+        <span
+          className="grommetux-value__units"
+        >
+          --&gt;Not Found
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="grommetux-meter grommetux-meter--bar grommetux-meter--single grommetux-meter--large"
+  >
+    <div
+      className="grommetux-meter__value-container"
+    >
+      <div
+        className="grommetux-meter__graphic-container"
+      >
+        <svg
+          aria-label="Bar Meter. , Value: 100, Max: 100"
+          className="grommetux-meter__graphic"
+          height={24}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          preserveAspectRatio="xMidYMid meet"
+          role="img"
+          tabIndex={undefined}
+          viewBox="0 0 192 24"
+          width={192}
+        >
+          <g
+            className="grommetux-meter__tracks"
+          >
+            <path
+              className="grommetux-meter__slice"
+              d="M0,12 L192,12"
+            />
+          </g>
+          <g
+            className="grommetux-meter__values"
+          >
+            <path
+              className="grommetux-meter__slice grommetux-color-index-graph-2"
+              d="M0,12 L192,12"
+            />
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

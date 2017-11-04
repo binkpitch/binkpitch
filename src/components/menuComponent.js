@@ -6,7 +6,12 @@ import Box from 'grommet/components/Box'
 import GrommetButton from 'grommet/components/Button'
 
 const Button = props => (
-  <GrommetButton box hoverIndicator={{background: 'neutral-4'}} plain label={props.label} onClick={() => {}} />
+  <GrommetButton
+    hoverIndicator={{background: 'neutral-4'}}
+    plain
+    label={props.label}
+    onClick={() => {}}
+    />
 )
 
 Button.PropTypes = {
@@ -23,14 +28,16 @@ const menu = () => {
         justify='start'
         full='horizontal'
         direction='row'
-        pad={{horizontal: 'large'}}>
+        pad={{horizontal: 'large'}}
+        >
         {wrapLink('landing')(<Button label='Back to top' />)}
       </Box>
       <Box
         justify='end'
         full='horizontal'
         direction='row'
-        pad={{horizontal: 'large'}}>
+        pad={{horizontal: 'large'}}
+        >
         {wrapLink('whoAmI')(<Button label='Who Am I' />)}
         {wrapLink('whatICode')(<Button label='What I Code' />)}
         {wrapLink('showcase')(<Button label='Showcase' />)}
