@@ -26,7 +26,10 @@
     "react-test-renderer": "^15.5.4",
     "redux-devtools-extension": "^2.13.2",
     "redux-immutable-state-invariant": "^2.0.0",
-    "standard": "^10.0.2"
+    "standard": "^10.0.2",
+    "@storybook/react": "^3.2.14",
+    "@storybook/addon-actions": "^3.2.14",
+    "@storybook/addon-links": "^3.2.14"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,7 +39,9 @@
     "lint": "./node_modules/.bin/standard",
     "lint-fix": "./node_modules/.bin/standard --fix",
     "precommit-msg": "echo '\nPre-commit -> Linting with Standard.js \nUse \"--no-verify\" to force commit\n' && exit 0",
-    "deploy": "npm run build && s3-website deploy build -d binkpitch.me"
+    "deploy": "npm run build && s3-website deploy build -d binkpitch.me",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
   },
   "pre-commit": [
     "precommit-msg",
