@@ -14,7 +14,7 @@ import Landing from '../components/landingComponent'
 import WhoAmI from '../components/whoAmIComponent'
 import WhatICode from '../components/whatICodeComponent'
 import Showcase from '../components/showcaseComponent'
-import Archievement from '../components/achievementComponent'
+import Achievement from '../components/achievementComponent'
 import ContactMe from '../components/contactMeComponent'
 
 storiesOf('Component', module)
@@ -22,7 +22,7 @@ storiesOf('Component', module)
   .add('WhoAmI', () => <WhoAmI />)
   .add('WhatICode', () => <WhatICode />)
   .add('Showcase', () => <Showcase />)
-  .add('Archievement', () => <Archievement />)
+  .add('Achievement', () => <Achievement />)
   .add('ContactMe', () => <ContactMe />)
   .add('Menu', () => <Menu />)
   .add('Footer', () => <Footer />)

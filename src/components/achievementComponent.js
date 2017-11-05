@@ -5,13 +5,13 @@ import Accordion from 'grommet/components/Accordion'
 import AccordionPanel from 'grommet/components/AccordionPanel'
 import Paragraph from 'grommet/components/Paragraph'
 
-const archievement = () => {
+const achievement = () => {
   return (
-    <div className='archievement'>
+    <div className='achievement'>
       <Box margin={{top: 'large', horizontal: 'large'}}>
         <Box margin={{vertical: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
-            Archievement
+            Achievement
           </Heading>
         </Box>
 
@@ -38,4 +38,4 @@ const archievement = () => {
   )
 }
 
-export default archievement
+export default achievement

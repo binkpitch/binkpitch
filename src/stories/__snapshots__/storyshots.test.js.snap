@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Component Archievement 1`] = `
+exports[`Storyshots Component Achievement 1`] = `
 <div
-  className="archievement"
+  className="achievement"
 >
   <div
     className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
@@ -23,7 +23,7 @@ exports[`Storyshots Component Archievement 1`] = `
       <h2
         className="grommetux-heading"
       >
-        Archievement
+        Achievement
       </h2>
     </div>
     <ul
@@ -2192,7 +2192,7 @@ exports[`Storyshots Page Home 1`] = `
     name="achievement"
   >
     <div
-      className="archievement"
+      className="achievement"
     >
       <div
         className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
@@ -2213,7 +2213,7 @@ exports[`Storyshots Page Home 1`] = `
           <h2
             className="grommetux-heading"
           >
-            Archievement
+            Achievement
           </h2>
         </div>
         <ul
