@@ -21,7 +21,7 @@ const landing = () => {
           </a>.
         </Heading>
         <Heading align='center' size='small'>
-          I build web and mobile application.
+          I build web applications using React.
         </Heading>
         <Box direction='row' margin={{top: 'medium'}}>
           <Box margin='medium'>
