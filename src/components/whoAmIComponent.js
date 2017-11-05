@@ -13,7 +13,7 @@ const whoAmI = () => {
           </Heading>
         </Box>
         <Heading tag='h3' align='center' margin={'medium'}>
-          A <b>front-end developer</b> with a hand-on experience on React projects for <b>more than a year.</b>
+          A front-end developer with a hand-on experience on React projects for <b>more than a year.</b>
         </Heading>
         <Box direction='row' justify='center'>
           <Box margin='medium'>

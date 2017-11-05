@@ -1,5 +1,235 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots Component Archievement 1`] = `
+<div
+  className="archievement"
+>
+  <div
+    className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
+    id={undefined}
+    onClick={undefined}
+    role={undefined}
+    style={Object {}}
+    tabIndex={undefined}
+  >
+    <div
+      className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+      id={undefined}
+      onClick={undefined}
+      role={undefined}
+      style={Object {}}
+      tabIndex={undefined}
+    >
+      <h2
+        className="grommetux-heading"
+      >
+        Archievement
+      </h2>
+    </div>
+    <ul
+      className="grommetux-list grommetux-accordion"
+      role="tablist"
+    >
+      <div>
+        <li
+          aria-expanded={false}
+          aria-label="Hacktoberfest 2017"
+          aria-selected={false}
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+          id={undefined}
+          onClick={undefined}
+          role="tab"
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <button
+            aria-label={undefined}
+            className="grommetux-button grommetux-button--fill grommetux-button--plain"
+            disabled={false}
+            href={undefined}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+            type="button"
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <header
+                className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                Hacktoberfest 2017
+                <svg
+                  aria-label="caret-next"
+                  className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <polygon
+                    fill="none"
+                    points="6 2 18 12 6 22"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+              </header>
+            </div>
+          </button>
+        </li>
+        <span
+          className="grommetux-collapsible__wrapper"
+        />
+      </div>
+      <div>
+        <li
+          aria-expanded={false}
+          aria-label="TechJam by KBTG"
+          aria-selected={false}
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+          id={undefined}
+          onClick={undefined}
+          role="tab"
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <button
+            aria-label={undefined}
+            className="grommetux-button grommetux-button--fill grommetux-button--plain"
+            disabled={false}
+            href={undefined}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+            type="button"
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <header
+                className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                TechJam by KBTG
+                <svg
+                  aria-label="caret-next"
+                  className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <polygon
+                    fill="none"
+                    points="6 2 18 12 6 22"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+              </header>
+            </div>
+          </button>
+        </li>
+        <span
+          className="grommetux-collapsible__wrapper"
+        />
+      </div>
+      <div>
+        <li
+          aria-expanded={false}
+          aria-label="PWA Online Hackathon 2017"
+          aria-selected={false}
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+          id={undefined}
+          onClick={undefined}
+          role="tab"
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <button
+            aria-label={undefined}
+            className="grommetux-button grommetux-button--fill grommetux-button--plain"
+            disabled={false}
+            href={undefined}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseUp={[Function]}
+            type="button"
+          >
+            <div
+              className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+              id={undefined}
+              onClick={undefined}
+              role={undefined}
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <header
+                className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                id={undefined}
+                onClick={undefined}
+                role={undefined}
+                style={Object {}}
+                tabIndex={undefined}
+              >
+                PWA Online Hackathon 2017
+                <svg
+                  aria-label="caret-next"
+                  className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <polygon
+                    fill="none"
+                    points="6 2 18 12 6 22"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+              </header>
+            </div>
+          </button>
+        </li>
+        <span
+          className="grommetux-collapsible__wrapper"
+        />
+      </div>
+    </ul>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Component ContactMe 1`] = `
 <div
   className="contactme"
@@ -132,7 +362,7 @@ exports[`Storyshots Component Landing 1`] = `
     <h1
       className="grommetux-heading grommetux-heading--small grommetux-heading--align-center"
     >
-      I build web and mobile application.
+      I build web applications using React.
     </h1>
     <div
       className="grommetux-box grommetux-box--direction-row grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-medium"
@@ -351,6 +581,29 @@ exports[`Storyshots Component Menu 1`] = `
                 className="grommetux-button__label"
               >
                 Showcase
+              </span>
+            </button>
+          </a>
+          <a
+            className={undefined}
+            onClick={[Function]}
+          >
+            <button
+              aria-label={undefined}
+              className="grommetux-button grommetux-button--plain grommetux-background-hover-color-index-neutral-4"
+              disabled={false}
+              href={undefined}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onFocus={[Function]}
+              onMouseDown={[Function]}
+              onMouseUp={[Function]}
+              type="button"
+            >
+              <span
+                className="grommetux-button__label"
+              >
+                Achievement
               </span>
             </button>
           </a>
@@ -971,17 +1224,10 @@ exports[`Storyshots Component WhoAmI 1`] = `
     <h3
       className="grommetux-heading grommetux-heading--align-center grommetux-heading--margin-medium"
     >
-      A newly-graduate 
+      A front-end developer with a hand-on experience on React projects for 
       <b>
-        computer engineering
+        more than a year.
       </b>
-       student 
-      <br />
-       with a goal of becoming 
-      <b>
-        a fullstack developer
-      </b>
-      .
     </h3>
     <div
       className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--responsive grommetux-box--pad-none"
@@ -1146,7 +1392,7 @@ exports[`Storyshots Page Home 1`] = `
         <h1
           className="grommetux-heading grommetux-heading--small grommetux-heading--align-center"
         >
-          I build web and mobile application.
+          I build web applications using React.
         </h1>
         <div
           className="grommetux-box grommetux-box--direction-row grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-medium"
@@ -1263,17 +1509,10 @@ exports[`Storyshots Page Home 1`] = `
         <h3
           className="grommetux-heading grommetux-heading--align-center grommetux-heading--margin-medium"
         >
-          A newly-graduate 
+          A front-end developer with a hand-on experience on React projects for 
           <b>
-            computer engineering
+            more than a year.
           </b>
-           student 
-          <br />
-           with a goal of becoming 
-          <b>
-            a fullstack developer
-          </b>
-          .
         </h3>
         <div
           className="grommetux-box grommetux-box--direction-row grommetux-box--justify-center grommetux-box--responsive grommetux-box--pad-none"
@@ -1946,6 +2185,237 @@ exports[`Storyshots Page Home 1`] = `
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+  <div
+    name="achievement"
+  >
+    <div
+      className="archievement"
+    >
+      <div
+        className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-top-large grommetux-box--margin-horizontal-large"
+        id={undefined}
+        onClick={undefined}
+        role={undefined}
+        style={Object {}}
+        tabIndex={undefined}
+      >
+        <div
+          className="grommetux-box grommetux-box--direction-column grommetux-box--align-self-start grommetux-box--responsive grommetux-box--pad-none grommetux-box--margin-vertical-large"
+          id={undefined}
+          onClick={undefined}
+          role={undefined}
+          style={Object {}}
+          tabIndex={undefined}
+        >
+          <h2
+            className="grommetux-heading"
+          >
+            Archievement
+          </h2>
+        </div>
+        <ul
+          className="grommetux-list grommetux-accordion"
+          role="tablist"
+        >
+          <div>
+            <li
+              aria-expanded={false}
+              aria-label="Hacktoberfest 2017"
+              aria-selected={false}
+              className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+              id={undefined}
+              onClick={undefined}
+              role="tab"
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <button
+                aria-label={undefined}
+                className="grommetux-button grommetux-button--fill grommetux-button--plain"
+                disabled={false}
+                href={undefined}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onMouseUp={[Function]}
+                type="button"
+              >
+                <div
+                  className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <header
+                    className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    Hacktoberfest 2017
+                    <svg
+                      aria-label="caret-next"
+                      className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                      height="24px"
+                      role="img"
+                      version="1.1"
+                      viewBox="0 0 24 24"
+                      width="24px"
+                    >
+                      <polygon
+                        fill="none"
+                        points="6 2 18 12 6 22"
+                        stroke="#000"
+                        strokeWidth="2"
+                      />
+                    </svg>
+                  </header>
+                </div>
+              </button>
+            </li>
+            <span
+              className="grommetux-collapsible__wrapper"
+            />
+          </div>
+          <div>
+            <li
+              aria-expanded={false}
+              aria-label="TechJam by KBTG"
+              aria-selected={false}
+              className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+              id={undefined}
+              onClick={undefined}
+              role="tab"
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <button
+                aria-label={undefined}
+                className="grommetux-button grommetux-button--fill grommetux-button--plain"
+                disabled={false}
+                href={undefined}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onMouseUp={[Function]}
+                type="button"
+              >
+                <div
+                  className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <header
+                    className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    TechJam by KBTG
+                    <svg
+                      aria-label="caret-next"
+                      className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                      height="24px"
+                      role="img"
+                      version="1.1"
+                      viewBox="0 0 24 24"
+                      width="24px"
+                    >
+                      <polygon
+                        fill="none"
+                        points="6 2 18 12 6 22"
+                        stroke="#000"
+                        strokeWidth="2"
+                      />
+                    </svg>
+                  </header>
+                </div>
+              </button>
+            </li>
+            <span
+              className="grommetux-collapsible__wrapper"
+            />
+          </div>
+          <div>
+            <li
+              aria-expanded={false}
+              aria-label="PWA Online Hackathon 2017"
+              aria-selected={false}
+              className="grommetux-box grommetux-box--direction-column grommetux-box--align-center grommetux-box--responsive grommetux-box--pad-none grommetux-box--separator-bottom grommetux-list-item grommetux-accordion-panel"
+              id={undefined}
+              onClick={undefined}
+              role="tab"
+              style={Object {}}
+              tabIndex={undefined}
+            >
+              <button
+                aria-label={undefined}
+                className="grommetux-button grommetux-button--fill grommetux-button--plain"
+                disabled={false}
+                href={undefined}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                onMouseUp={[Function]}
+                type="button"
+              >
+                <div
+                  className="grommetux-box grommetux-box--direction-column grommetux-box--responsive grommetux-box--pad-none grommetux-box--flex-off"
+                  id={undefined}
+                  onClick={undefined}
+                  role={undefined}
+                  style={Object {}}
+                  tabIndex={undefined}
+                >
+                  <header
+                    className="grommetux-box grommetux-box--direction-row grommetux-box--justify-between grommetux-box--align-center grommetux-box--pad-horizontal-none grommetux-box--pad-vertical-none grommetux-box--pad-between-small grommetux-header grommetux-accordion-panel__header"
+                    id={undefined}
+                    onClick={undefined}
+                    role={undefined}
+                    style={Object {}}
+                    tabIndex={undefined}
+                  >
+                    PWA Online Hackathon 2017
+                    <svg
+                      aria-label="caret-next"
+                      className="grommetux-control-icon grommetux-control-icon-caret-next grommetux-accordion-panel__control grommetux-control-icon--responsive"
+                      height="24px"
+                      role="img"
+                      version="1.1"
+                      viewBox="0 0 24 24"
+                      width="24px"
+                    >
+                      <polygon
+                        fill="none"
+                        points="6 2 18 12 6 22"
+                        stroke="#000"
+                        strokeWidth="2"
+                      />
+                    </svg>
+                  </header>
+                </div>
+              </button>
+            </li>
+            <span
+              className="grommetux-collapsible__wrapper"
+            />
+          </div>
+        </ul>
       </div>
     </div>
   </div>
