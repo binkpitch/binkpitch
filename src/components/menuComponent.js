@@ -41,6 +41,7 @@ const menu = () => {
         {wrapLink('whoAmI')(<Button label='Who Am I' />)}
         {wrapLink('whatICode')(<Button label='What I Code' />)}
         {wrapLink('showcase')(<Button label='Showcase' />)}
+        {wrapLink('achievement')(<Button label='Achievement' />)}
         {wrapLink('contactMe')(<Button label='Contact Me' />)}
       </Box>
     </Header>

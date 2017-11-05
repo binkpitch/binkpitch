@@ -11,12 +11,12 @@ const whatICode = () => {
     <div className='whatICode'>
       <Box margin={{top: 'large', horizontal: 'large'}}>
 
-        {/* What I Code  */}
         <Box margin={{vertical: 'large'}} alignSelf='start'>
           <Heading tag='h2'>
             What I Code
           </Heading>
         </Box>
+
         <Tiles fill>
           <Tile>
             <Card
