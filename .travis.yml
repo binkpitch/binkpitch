@@ -8,3 +8,11 @@ cache:
 script:
   - yarn run lint
   - yarn run test-ci
+deploy:
+  provider: s3
+  access_key_id: $ACCESS_KEY_ID
+  secret_access_key: $SECRET_ACCESS_KEY
+  bucket: binkpitch.me
+  skip_cleanup: true
+  region: ap-southeast-1
+  local_dir: build
